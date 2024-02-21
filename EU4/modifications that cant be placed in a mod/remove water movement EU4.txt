@@ -1,0 +1,1 @@
+in "Documents\Paradox Interactive\Europa Universalis IV\settings.txt" change "draw_water=yes and draw_sky=yes" to "draw_water=no and draw_sky=no"
