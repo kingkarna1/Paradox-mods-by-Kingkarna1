@@ -1,0 +1,78 @@
+        shadows=no
+	multi_sampling=0
+	vsync=no
+	override_resolution_safety=no
+}
+mapRenderingOptions=
+{
+	draw_terrain=yes
+	draw_water=no
+	draw_borders=yes
+	draw_trees=yes
+	draw_rivers=yes
+	draw_postfx=no
+	draw_sky=yes
+	draw_bloom=no
+	draw_tooltips=yes
+	draw_hires_terrain=no
+	draw_citysprawl=yes
+}
+
+low_res_textures=no
+force_pow2_textures=no
+
+steam_rich_presence=no
+game_rules=
+{
+	epidemics="deadly"
+	minor_epidemics="more"
+	mongol_invasion="random"
+	aztec_invasion="random"
+	exclave_purge="total"
+	chinese_interactions="all"
+	chinese_invasions="default"
+	jade_dragon_cbs="on"
+	devil_worshipers="default"
+	turkic_invasions="random"
+	non_epidemic_diseases="more"
+	gender="all"
+	secret_cults="default"
+	dejure_drift_duration="shorter"
+	dejure_drift="default"
+	religious_conversion="slower"
+	culture_conversion="faster_melting_pots"
+	adventurers="normal"
+	raiding="unrestricted"
+	interfaith_marriages="open"
+	matrilineal_marriages="on"
+	charlemagne_story="on"
+	dynamic_realms="on"
+	vassal_republics="unrestricted"
+	otto_story="on"
+	invitation="default"
+	vassal_theocracies="unrestricted"
+	provincial_revolts="normal"
+	diplo_range="restricted"
+	provincial_revolt_strength="extremely_powerful"
+	defensive_attrition="on"
+	regencies="on"
+	pagan_reformation="allowed"
+	diplo_assassination="off"
+	ai_seduction="on"
+	dueling="unrestricted"
+	ai_intrigue="on"
+	dynasty_title_names="on"
+	punishment_release_prisoner="off"
+	multiplayer_assassinations="free"
+	cultural_title_names="on"
+	multiplayer_third_party_claims="on"
+	multiplayer_invasions="on"
+	demesne_size="default"
+	conclave_education_focuses="all"
+	grant_independence="restricted"
+	shepherds_crusade="on"
+	dynamic_crusader_states="default"
+	pregnancy_flavor="on"
+	non_aggression_pacts_block_factions="on"
+	wonder_rule_historical="on"
+}
